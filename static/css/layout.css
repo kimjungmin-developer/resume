@@ -50,7 +50,7 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #27A822;
+    color: rgb(173, 24, 148);
 }
 
 header > h1 {
