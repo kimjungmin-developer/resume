@@ -24,7 +24,7 @@ a {
 }
 
 mark { 
-    background-color: gray;
+    /* background-color: gray; */
     color: green;
   }
 
